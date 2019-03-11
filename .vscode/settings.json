@@ -1,0 +1,10 @@
+{
+ "editor.accessibilitySupport": "on",
+ "debug.node.autoAttach": "on",
+ "zenMode.restore": true,
+ "zenMode.hideLineNumbers": false,
+ "zenMode.hideActivityBar": false,
+ "zenMode.hideStatusBar": false,
+ "editor.fontFamily": "",
+ "debug.console.fontFamily": "sans-serif"
+}
